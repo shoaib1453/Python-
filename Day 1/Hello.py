@@ -1,0 +1,6 @@
+print("Hello, GitHub!")
+print("Today I have  started my Python practice.")
+print("Hello, My Name is Maniyar Shoaib and i want to become a Devops Engineer")
+Print("And i also want to gather all that requirement certificates")
+Print("From today I am starting my new journey to become Devops Engineer")
+Print("From today I want to learn Python from Basic Beginner to Advance Pro coder in Python Programming Language")
